@@ -1,4 +1,4 @@
-# Hola 👋, soy Ambar Zambrano
+# Hola 👋, soy Ambar ZV
 
 Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
 
@@ -10,7 +10,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 - Puedes contactarme a través de mi correo electrónico: **ambaar.venegas@gmail.com**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/%C3%A1mbar-zambrano-3a4746236/)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes visitar mi **[Portafolio]([https://example.com](https://www.canva.com/design/DAFueYkWbcw/5lrG0318YmTL1CG1mD-ZAQ/view?utm_content=DAFueYkWbcw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1))**
 
 ### 🎨 Frontend
 
