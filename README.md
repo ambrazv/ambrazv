@@ -8,8 +8,8 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<<ambaar.venegas@gmail.com>>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/%C3%A1mbar-zambrano-3a4746236/))**
+- Puedes contactarme a través de mi correo electrónico: **ambaar.venegas@gmail.com**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/%C3%A1mbar-zambrano-3a4746236/)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
